@@ -13,7 +13,7 @@ Definitions
 “User”, “You” “Data Subjects” defined as the registered user of the PingU App, who has completed the
 PingU registration process.
 
-“Company”, “Aisces”, “PingU” "We" defined as Aisces Software Solutions Private Limited
+“Company”, “Posttech”, “PingU” "We" defined as Posttech Software Solutions Private Limited
 
 “Service”, “Messenger Service” is the defined as the services provided as part of the PingU App, that
 includes services to exchange Text Messages, Multimedia Messages, Audio Call, Video Call between
@@ -30,7 +30,7 @@ must be protected. All personal data must be collected and processed in a legal 
 specific purposes.
 • Transparency. The Data Subject must be informed of how his/her data is being collected, processed
 and used.
-https://pingu.co.in/privacypolicy/
+
 
 2. What personal data we collect and process
 2.1 User Profile Information
